@@ -3,10 +3,11 @@
     font-family: "Metropolis";
     src: url("./fonts/Metropolis-Regular.otf") format("opentype");
 }
-leqcia-6/
-├── style.css
-└── fonts/
-    └── Metropolis-Regular.otf
+fonts{
+    font-family: "story script", "Metropolis", sans-serif;
+    src: url("./fonts/storyscript.otf") format("opentype");
+    src: url("./fonts/Metropolis-Regular.otf") format("opentype");
+}
 /* common styles */
 /* header */
 ul {
@@ -82,3 +83,4 @@ div {
 }
 
 /* Footer */
+
