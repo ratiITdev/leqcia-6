@@ -3,6 +3,10 @@
     font-family: "Metropolis";
     src: url("./fonts/Metropolis-Regular.otf") format("opentype");
 }
+leqcia-6/
+├── style.css
+└── fonts/
+    └── Metropolis-Regular.otf
 /* common styles */
 /* header */
 ul {
