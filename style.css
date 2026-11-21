@@ -3,10 +3,6 @@
     font-family: "Metropolis";
     src: url("./fonts/Metropolis-Regular.otf") format("opentype");
 }
-fonts{
-    font-family: "Metropolis", sans-serif;
-    src: url("./fonts/Metropolis-Regular.otf") format("opentype");
-}
 /* common styles */
 /* header */
 ul {
@@ -83,9 +79,4 @@ div {
 
 /* Footer */
 
-div {
-    font-family: "story script", "Metropolis", sans-serif;
-}
-
-/* Footer */
 
