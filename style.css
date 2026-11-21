@@ -1,8 +1,10 @@
+/* Common styles */
 @font-face {
     font-family: "Metropolis";
     src: url("./fonts/Metropolis-Regular.otf") format("opentype");
 }
-
+/* common styles */
+/* header */
 ul {
     font-size: 30px;
 }
@@ -37,7 +39,7 @@ p {
     text-align: center;
 }
 
-
+/* Header */
 h1 {
     background-color: red;
     width: fit-content;
@@ -52,7 +54,7 @@ h1 {
     color: white;
 }
 
-
+ /* Menu */ 
 ol {
     font-size: 30px;
 }
@@ -64,14 +66,15 @@ ol {
 .item {
     color: green;
 }
-
+/* Menu */
+/* Main content */
 .phone {
     display: block;
     text-align: center;
 }
-
+/* Main content */
 div {
     font-family: "story script", "Metropolis", sans-serif;
 }
 
-
+/* Footer */
