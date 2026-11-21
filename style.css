@@ -1,0 +1,62 @@
+h1 {
+    background-color: red;
+    width: fit-content;
+}
+
+.mc {
+    color: white;
+}
+
+.donalds {
+    color: white;
+}
+
+ul {
+    font-size: 30px;
+}
+
+h3 {
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color:orange;
+   text-align:center;
+}
+
+h2 {font-family: 'Courier New', Courier, monospace;
+    font-size:50px;
+    text-align:center;
+    color:orange;
+}
+
+ol {
+    font-size:30px;
+}
+
+.price {
+    color:green;
+}
+
+.item {
+    color:green;
+}
+li {
+    color:green;
+}
+
+p{
+    color:chartreuse;
+    font-size:30px;
+    text-align:center;
+}
+
+.phone {
+    display: block;
+    text-align: center;
+}
+
+.AI {
+    color: blue;
+    font-size: 80px;
+    text-align: center;
+}
