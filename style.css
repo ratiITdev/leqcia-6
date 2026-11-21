@@ -4,8 +4,7 @@
     src: url("./fonts/Metropolis-Regular.otf") format("opentype");
 }
 fonts{
-    font-family: "story script", "Metropolis", sans-serif;
-    src: url("./fonts/storyscript.otf") format("opentype");
+    font-family: "Metropolis", sans-serif;
     src: url("./fonts/Metropolis-Regular.otf") format("opentype");
 }
 /* common styles */
@@ -78,6 +77,12 @@ ol {
     text-align: center;
 }
 /* Main content */
+div {
+    font-family: "story script", "Metropolis", sans-serif;
+}
+
+/* Footer */
+
 div {
     font-family: "story script", "Metropolis", sans-serif;
 }
