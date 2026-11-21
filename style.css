@@ -1,6 +1,49 @@
+/* Common styles */
+@font-face {
+    font-family: "Metropolis";
+    src: url("./fonts/Metropolis-Regular.otf") format("opentype");
+}
+/* common styles */
+/* header */
+ul {
+    font-size: 30px;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: orange;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+    color: orange;
+}
+
+li {
+    color: green;
+}
+
+p {
+    color: chartreuse;
+    font-size: 30px;
+    text-align: center;
+}
+
+.AI {
+    color: blue;
+    font-size: 80px;
+    text-align: center;
+}
+
+/* Header */
 h1 {
     background-color: red;
     width: fit-content;
+    font-family: "story script", "Metropolis", sans-serif;
 }
 
 .mc {
@@ -11,52 +54,27 @@ h1 {
     color: white;
 }
 
-ul {
+ /* Menu */ 
+ol {
     font-size: 30px;
 }
 
-h3 {
-    
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 40px;
-    color:orange;
-   text-align:center;
-}
-
-h2 {font-family: 'Courier New', Courier, monospace;
-    font-size:50px;
-    text-align:center;
-    color:orange;
-}
-
-ol {
-    font-size:30px;
-}
-
 .price {
-    color:green;
+    color: green;
 }
 
 .item {
-    color:green;
+    color: green;
 }
-li {
-    color:green;
-}
-
-p{
-    color:chartreuse;
-    font-size:30px;
-    text-align:center;
-}
-
+/* Menu */
+/* Main content */
 .phone {
     display: block;
     text-align: center;
 }
-
-.AI {
-    color: blue;
-    font-size: 80px;
-    text-align: center;
+/* Main content */
+div {
+    font-family: "story script", "Metropolis", sans-serif;
 }
+
+/* Footer */
